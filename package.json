@@ -5,7 +5,7 @@
   "propTypes": {
     "title": "PropTypes.string",
     "layout": "PropTypes.string"
-  },
+  
   "defaultProps": {
     "title": "Test uniqueness",
     "titleColor": "#000",
